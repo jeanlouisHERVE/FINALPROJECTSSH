@@ -1,2 +1,2 @@
 FROM tomcat:8.5.78-jre8 
-COPY /webapp/target/webapp.war /usr/local/tomcat/webapps/webapp.war
+COPY /webappssh/target/webappssh.war /usr/local/tomcat/webappssh/webappsh.war
